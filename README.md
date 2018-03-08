@@ -4,7 +4,7 @@ Este breve tutorial explica algunos de los conceptos relacionados con la librer�
 Se incluyen dos versiones:
 
 - [Cuaderno Jupyter](tutorial.ipynb)
-- [Versión estática](https://rawgit.com/pagutierrez/tutorial-scikit-learn/master/tutorial.html)
+- [Versión estática](https://rawgit.com/p92camcj/tutorial-scikit-learn-asl/master/tutorial.html)
 
 En los equipos de la Universidad de Córdoba contamos con Python 2.7 instalado y con la mayoría de las librerías disponibles y de uso frecuente, no obstante, vamos a actualiar la librería en la que se centra este taller.
 
