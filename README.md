@@ -1,4 +1,4 @@
-# Tutorial sobre `scikit-learn` para el [Aula de Software Libre de la UCO] (https://www.uco.es/aulasoftwarelibre/)
+# Tutorial sobre `scikit-learn` para el Aula de Software Libre de la UCO
 Este breve tutorial explica algunos de los conceptos relacionados con la librería `scikit-learn` de python.
 
 Se incluyen dos versiones:
