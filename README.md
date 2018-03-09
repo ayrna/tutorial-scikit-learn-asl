@@ -1,6 +1,10 @@
 # Tutorial sobre `scikit-learn` para el Aula de Software Libre de la UCO
 Este breve tutorial explica algunos de los conceptos relacionados con la librería `scikit-learn` de python.
 
+Antes de comenzar el tutorial, queremos realizar una pequeña encuesta/prueba de nivel, vamos a ello:
+
+- [Prueba de nivel](https://goo.gl/forms/riFbbsX2maZm0kjI2)
+
 Se incluyen dos versiones:
 
 - [Cuaderno Jupyter](tutorial.ipynb)
