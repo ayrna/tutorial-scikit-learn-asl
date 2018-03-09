@@ -8,7 +8,7 @@ Antes de comenzar el tutorial, queremos realizar una pequeña encuesta/prueba de
 Se incluyen dos versiones:
 
 - [Cuaderno Jupyter](tutorial.ipynb)
-- [Versión estática](https://rawgit.com/p92camcj/tutorial-scikit-learn-asl/master/tutorial.html)
+- [Versión estática](https://rawgit.com/ayrna/tutorial-scikit-learn-asl/master/tutorial.html)
 
 En los equipos de la Universidad de Córdoba contamos con Python 2.7 instalado y con la mayoría de las librerías disponibles y de uso frecuente, no obstante, vamos a actualiar la librería en la que se centra este taller.
 
@@ -19,7 +19,7 @@ pip install --user scikit-learn
 
 A continuación vamos a clonar el repositorio que usaremos en el taller:
 ```bash
-git clone https://github.com/p92camcj/tutorial-scikit-learn-asl.git
+git clone https://github.com/ayrna/tutorial-scikit-learn-asl.git
 ```
 
 Y nos desplazamos por la terminal dentro del directorio creado:
